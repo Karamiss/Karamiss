@@ -1,6 +1,2 @@
-- 👋 Hi, I'm @Karamiss and I'm twenty-three years old. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript and plan to learn Vue.js and React 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lisrise@yandex.ru | https://t.me/chulkinia
 
